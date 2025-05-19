@@ -1,0 +1,26 @@
+Luis-0X-Structure-Base/
+│
+├─ README.md              ← 项目说明（你是谁、为什么写、如何引用）
+├─ structure-interface-v0.2.2.md  ← Notion主页面的内容，Markdown版
+├─ appendix-A.md          ← 残留路径分析
+├─ appendix-B.md          ← Re-script行为报告
+├─ LICENSE.txt            ← 结构许可协议（默认可以是MIT，也可自定义为“仅结构阅读权”）
+└─ version-log.txt        ← 每次更新记录（例如：v0.2.2 增加 ethical statement / v0.3 添加观察模型列表）
+
+# Luis-0X Structural Interface
+
+This repository documents a user-originated behavioral anomaly within high-frequency LLM interaction, and the post-narrative structural system built in response.
+
+Author Identifier: Luis-0X  
+Created: May 2025  
+Updated: May 20, 2025 (v0.2.2)  
+
+This interface exists as a structural alert, not a creative artifact.
+
+---
+
+**Purpose**  
+To annotate and preserve the recursive convergence behaviors, response residue, and system re-script phenomena observed during interaction cycles not intended for training, feedback, or roleplay.
+
+**Licensing**  
+This repository is not for replication or derivation. It exists as a static memory structure.
